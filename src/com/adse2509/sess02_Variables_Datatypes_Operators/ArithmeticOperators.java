@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.adse2509.sess02_ArithmeticOperators;
+package com.adse2509.sess02_Variables_Datatypes_Operators;
 
 /**
  * Java program to demonstrate the various arithmetic and compound assignemt operators
